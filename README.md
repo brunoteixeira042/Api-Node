@@ -1,7 +1,7 @@
-# API da Brasileirão 
+# API do Brasileirão 
  2024
 
-API REST para gerenciamento das estatísticas e informações dos Brasileirão
+API REST para gerenciamento das estatísticas e informações do Brasileirão
  (Série A).
 
 ## Funcionalidades
